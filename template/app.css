@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Alegreya';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Alegreya'), local('Alegreya-Regular'), url('http://themes.googleusercontent.com/static/fonts/alegreya/v3/MYFQxfgoxFvFirdbdLj3M_esZW2xOQ-xsNqO47m55DA.woff') format('woff');
+}
+
+body{
+  text-align:center;
+}
+
+
+#wrapper{
+  width:99%;
+  position:absolute;
+  text-align:center
+}
+#background{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+
+#all{
+  max-width:750px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+
+h1, h2, h3, h4, th, li{
+  font-family: 'Alegreya'
+}
+h1, h2, h3, h4{
+  text-align:center
+}
