@@ -40,7 +40,7 @@ Educational | 私立開成高等学校 - 卒業
 - __アマツ株式会社__
 - Position: プログラマー, ゲームディレクター
 - 在籍中 PC 向けソーシャルゲーム開発に従事しました。
-- アプリケーソンのサーバーサイドおよび JavaScript を用いた一部 UI の開発を一貫して担当し、設計、実装、テスティング、リリース後の運用までを担いました。
+- アプリケーションのサーバーサイドおよび JavaScript を用いた一部 UI の開発を一貫して担当し、設計、実装、テスティング、リリース後の運用までを担いました。
 - [FriendFeed 型のデータ構造](http://www.hyuki.com/yukiwiki/wiki.cgi?HowFriendFeedUsesMySqlToStoreSchemaLessData)を採用し、リリース後の素早い機能追加を実現しました。
 
 
