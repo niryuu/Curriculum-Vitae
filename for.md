@@ -65,7 +65,7 @@ Educational | 慶應義塾大学大学院図書館・情報学専攻博士課程
 - Ethnographic Research
 - Open Data
 
-### Verval Language
+### Verbal Language
 - English (reading/writing: enough to work, hearing/speaking: a bit)
 - Japanese (a lot) 
 
