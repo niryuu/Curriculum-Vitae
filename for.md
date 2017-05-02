@@ -1,7 +1,7 @@
 # Contents
 ## Basic Infomation
 
-key | value
+項目 | 内容
 ------------- | -------------
 Name | <ruby><rb>田島　逸郎<rb><rt>たじま　いつろう</rt></ruby>
 Phone | 080 3444 8274
@@ -10,19 +10,20 @@ Web Site | https://sites.google.com/site/niryuu/
 Educational | 慶應義塾大学大学院図書館・情報学専攻博士課程3年在学中
 
 ## Education
-key | value
+年度 | 内容
 ------------- | -------------
 2001-2004 | 東京工業大学工学部附属工業高等学校卒業
 2004-2007 | 電気通信大学電気通信学部情報通信工学科中退
 2007-2009 | 電気通信大学電気通信学部人間コミュニケーション学科卒業、学士(工学)
-| 卒業論文題目「企業による『ユーザー経験』への注目がもたらす社会的影響」
+ | 卒業論文題目「企業による『ユーザー経験』への注目がもたらす社会的影響」
 2009-2011 | 埼玉大学大学院文化科学研究科修士課程情報環境専攻情報メディア環境コース修了、修士(文化科学)
-| 修士論文題目「位置提示技術を用いた状況での相互行為の分析の可能性」
+ | 修士論文題目「位置提示技術を用いた状況での相互行為の分析の可能性」
 2013-2014 | 放送大学大学院文化科学研究科選科生、公共政策学、学習科学、ヒューマンコンピュータインタラクション及びプログラミング言語の基礎理論を学ぶ
 2014-2015 | 放送大学教養学部情報コース編入学、中退
 2015- | 慶應義塾大学大学院図書館・情報学専攻博士課程
 
-## Skill
+## Skills
+
 ### Programming Language
 - JavaScript(ES3,5)
 - ECMAScript(2015-2017)
@@ -30,6 +31,7 @@ key | value
 - Ruby(1.8-2.4, a little)
 - HTML4,5
 - CSS(a little)
+
 ### Platform/Library
 - node.js(express)
 - django
@@ -39,12 +41,20 @@ key | value
 - Android(2.2-6.0)
 - Electron
 - WebGL(Three.js)
+
 ### Database
 - PostgreSQL
+
 ### Programming Environment
 - git/github
 - Redmine
 - Slack
+
+### Operating Systems
+- Linux(Ubuntu)
+- Windows
+- macOS
+
 ### Special skills related to software engineer
 - Programming Language Theory(Logic, Type Systems, Concurrent Programming)
 - Geographic Information Systems
@@ -54,6 +64,7 @@ key | value
 - Computer Supported Cooperative Work
 - Ethnographic Research
 - Open Data
+
 ### Verval Language
 - English (reading/writing: enough to work, hearing/speaking: a bit)
 - Japanese (a lot) 
@@ -74,7 +85,7 @@ key | value
 ### May. 2010 - Dec. 2010
 - __株式会社手嶋屋__
 - Position: プログラマー
-- オープンソースSNS「OpenPNE」のバグ改修を行いました。
+- オープンソースSNS「OpenPNE」のバグ修正及び改修を行いました。
 
 ### Jan. 2011 - Jun. 2011
 - __某スタートアップ__
@@ -106,8 +117,10 @@ key | value
 ## Personal Experience and Source Code
 研究などで必要なコード(文献、データ管理システム)などは基本的に自作しています。
 
-## Hobby
-- 社会学
-- 戦前期の教育制度
-- 戦前期の政治的意思決定過程
-- アイドルマスターシンデレラガールズ
+## 備考
+
+### 田島について
+- 精神障害者手帳3級(広汎性発達障害)
+- 原則的に、定時を設けて働くことができません。ミーティングなどは参加可能です。
+- オフィスでは集中しにくいため、リモートワークの方が顕著に高い生産性を発揮します。
+- あまりに理不尽な要求を突きつけられた場合、強く揉めることがあります。
