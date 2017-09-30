@@ -1,6 +1,8 @@
 # Contents
 ## Basic Infomation
 
+![Tajima](https://i.gyazo.com/828c0395a0ac596fd33e7a3da86f4c1a.jpg)
+
 項目 | 内容
 ------------- | -------------
 Name | <ruby><rb>田島　逸郎<rb><rt>たじま　いつろう</rt></ruby>
