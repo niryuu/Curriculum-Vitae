@@ -9,7 +9,7 @@ Name | <ruby><rb>田島　逸郎<rb><rt>たじま　いつろう</rt></ruby>
 Phone | 080 3444 8274
 Mail | niryuu@gmail.com
 Web Site | https://sites.google.com/site/niryuu/
-Educational | 慶應義塾大学大学院文学研究科図書館・情報学専攻博士課程3年在学中
+Educational | 慶應義塾大学大学院文学研究科図書館・情報学専攻博士課程単位取得退学
 
 ## Education
 年度 | 内容
@@ -22,25 +22,25 @@ Thesis | 卒業論文題目「企業による『ユーザー経験』への注�
 Thesis | 修士論文題目「位置提示技術を用いた状況での相互行為の分析の可能性」
 2013-2014 | 放送大学大学院文化科学研究科選科生、公共政策学、学習科学、ヒューマンコンピュータインタラクション及びプログラミング言語の基礎理論を学ぶ
 2014-2015 | 放送大学教養学部情報コース編入学、中退
-2015- | 慶應義塾大学大学院文学研究科図書館・情報学専攻博士課程
+2015-2021 | 慶應義塾大学大学院文学研究科図書館・情報学専攻博士課程、単位取得退学
 
 ## Skills
 
 ### Programming Language
 - JavaScript(ES3,5)
-- ECMAScript(2015-2017)
-- Python(2.4-2.7)
-- Ruby(1.8-2.4, a little)
+- ECMAScript(2015-2019)
+- Python(2.4-3.7)
+- Ruby(1.8-2.7, a little)
 - HTML4,5
 - CSS(a little)
 
 ### Platform/Library
 - node.js(express)
 - django
-- Rails(0.9-4.0, learning, some support experiences on production)
-- React Native
-- iOS(3.1-7.1)
-- Android(2.2-6.0)
+- Rails(0.9-7.3, learning, some support experiences on production)
+- React Native(Android/Windows/iOS)
+- iOS(3.1-14)
+- Android(2.2-11.0)
 - Electron
 - WebGL(Three.js)
 
