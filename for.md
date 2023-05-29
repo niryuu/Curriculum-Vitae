@@ -23,6 +23,7 @@ Thesis | 修士論文題目「位置提示技術を用いた状況での相�
 2013-2014 | 放送大学大学院文化科学研究科選科生、公共政策学、学習科学、ヒューマンコンピュータインタラクション及びプログラミング言語の基礎理論を学ぶ
 2014-2015 | 放送大学教養学部情報コース編入学、中退
 2015-2021 | 慶應義塾大学大学院文学研究科図書館・情報学専攻博士課程、単位取得退学
+2021- | 放送大学教養学部情報コース再入学
 
 ## Skills
 
@@ -46,6 +47,16 @@ https://researchmap.jp/niryuu
 - Android(2.2-11.0)
 - Electron
 - WebGL(Three.js)
+
+### GIS
+- Basic GIS knowledge(coordinate systems etc.)
+- Point Clouds(Potree, 3D Tiles)
+- Map technology(maplibre, leaflet, deck.gl)
+- Database processing(PostGIS)
+- Semantic Segmentation(in progress)
+
+### Natural Language Processing
+- deeplearning.ai Natural Language Processing Specialization ( https://www.coursera.org/account/accomplishments/specialization/M5QM9YTP5E2N )
 
 ### Database
 - PostgreSQL
@@ -112,7 +123,7 @@ https://researchmap.jp/niryuu
 - Position: Senior Developer -> R&D/GIS Specialist
 - 災害時の市民による地図を用いたオープンソースWeb情報共有システムUshahidiを、地域情報の共有に活用できるようカスタマイズしました。
 - モービルマッピングシステム(車載の機器で全方位動画、点群による3Dデータなどを取得できる、Google StreetViewよりも高度な技術)のWeb(OpenLayers, WebGL)による表示の開発に参加しました。道路などのインフラストラクチャーの整備などに使われます。
-- AR関連技術(秘匿)
+- 構造物の点群や3DオブジェクトをスマートフォンでAR表示するシステムを構築しました。
 - 橋梁インフラの点検管理に関するドローンなどのセンシング・3D技術による可視化システムを構築しました。
 
 ### Others
