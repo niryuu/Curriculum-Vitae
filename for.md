@@ -31,9 +31,9 @@ Thesis | 修士論文題目「位置提示技術を用いた状況での相�
 https://researchmap.jp/niryuu
 
 ### Programming Language
-- JavaScript(ES3,5)
-- ECMAScript(2015-2019)
-- Python(2.4-3.7)
+- JavaScript
+- ECMAScript
+- Python(2.4-3.10)
 - Ruby(1.8-2.7, a little)
 - HTML4,5
 - CSS(a little)
@@ -57,6 +57,9 @@ https://researchmap.jp/niryuu
 
 ### Natural Language Processing
 - deeplearning.ai Natural Language Processing Specialization ( https://www.coursera.org/account/accomplishments/specialization/M5QM9YTP5E2N )
+
+### Deep Learning
+- pytorch(1.10-2.0)
 
 ### Database
 - PostgreSQL
