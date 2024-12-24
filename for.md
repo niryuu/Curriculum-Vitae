@@ -33,7 +33,8 @@ https://researchmap.jp/niryuu
 ### Programming Language
 - JavaScript
 - ECMAScript
-- Python(2.4-3.10)
+- TypeScript
+- Python(2.4-3.12)
 - Ruby(1.8-2.7, a little)
 - HTML4,5
 - CSS(a little)
@@ -43,6 +44,8 @@ https://researchmap.jp/niryuu
 - django
 - Rails(0.9-7.3, learning, some support experiences on production)
 - React Native(Android/Windows/iOS)
+- React
+- vitejs
 - iOS(3.1-14)
 - Android(2.2-11.0)
 - Electron
@@ -58,8 +61,11 @@ https://researchmap.jp/niryuu
 ### Natural Language Processing
 - deeplearning.ai Natural Language Processing Specialization ( https://www.coursera.org/account/accomplishments/specialization/M5QM9YTP5E2N )
 
-### Deep Learning
+### Deep Learning/Large Language Models
 - pytorch(1.10-2.0)
+- HF transformers
+- QLoRA FT
+- DPO
 
 ### Database
 - PostgreSQL
