@@ -25,6 +25,15 @@ Thesis | 修士論文題目「位置提示技術を用いた状況での相�
 2015-2021 | 慶應義塾大学大学院文学研究科図書館・情報学専攻博士課程、単位取得退学
 2021- | 放送大学教養学部情報コース再入学
 
+## Certificate
+
+年度 | 内容
+------------- | -------------
+2023 | Coursera deeplearning.ai Natural Language Processing Specialization
+2023 | 東京大学松尾研究室大規模言語モデル講座2023修了
+2024 | 東京大学松尾研究室大規模言語モデル講座2024修了。コントリビューション部門特別賞受賞。
+2024 | 東京大学松尾研究室Deep Learning講座2024受講中
+
 ## Skills
 
 ### Research Experience
@@ -62,9 +71,10 @@ https://researchmap.jp/niryuu
 - deeplearning.ai Natural Language Processing Specialization ( https://www.coursera.org/account/accomplishments/specialization/M5QM9YTP5E2N )
 
 ### Deep Learning/Large Language Models
-- pytorch(1.10-2.0)
+- pytorch(1.10-2.7)
+- Deep Learning(MLP, CNN)
 - HF transformers
-- QLoRA FT
+- QLoRA Fine-Tuning
 - DPO
 
 ### Database
