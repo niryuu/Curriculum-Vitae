@@ -137,7 +137,7 @@ https://researchmap.jp/niryuu
 - Position: 研究開発
 - 大学との共同研究により、高速な特定物体認識アルゴリズムをスマートフォンに移植し、評価を行いました。
 
-### Mar. 2012 - current
+### Mar. 2012 - May. 2025
 - __合同会社Georepublic Japan__
 - Position: Senior Developer -> R&D/GIS Specialist
 - 災害時の市民による地図を用いたオープンソースWeb情報共有システムUshahidiを、地域情報の共有に活用できるようカスタマイズしました。
@@ -145,6 +145,10 @@ https://researchmap.jp/niryuu
 - 構造物の点群や3DオブジェクトをスマートフォンでAR表示するシステムを構築しました。
 - 橋梁インフラの点検管理に関するドローンなどのセンシング・3D技術による可視化システムを構築しました。
 - 割と地理空間情報では知名度の高い国家プロジェクトの末端にいますが、秘匿です。
+
+### May. 2025 - Current
+- __株式会社Geolonia__
+- Position: TBD
 
 ### Others
 - 非常勤講師に関してはResearch Experienceに記載。
