@@ -70,11 +70,15 @@ https://researchmap.jp/niryuu
 ### Natural Language Processing
 - deeplearning.ai Natural Language Processing Specialization ( https://www.coursera.org/account/accomplishments/specialization/M5QM9YTP5E2N )
 
-### Deep Learning/Large Language Models
+### Deep Learning
 - pytorch(1.10-2.7)
-- Deep Learning(MLP, CNN)
+- Deep Learning(MLP, CNN, RNN, LSTM, Reinforcement Learning)
+
+### LLM
 - HF transformers
-- QLoRA Fine-Tuning
+- Apple MLX
+- Supervised Fine-Tuning
+- Synthetic Data Generation
 - DPO
 
 ### Database
