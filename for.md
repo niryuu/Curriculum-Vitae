@@ -32,7 +32,7 @@ Thesis | 修士論文題目「位置提示技術を用いた状況での相�
 2023 | Coursera deeplearning.ai Natural Language Processing Specialization
 2023 | 東京大学松尾研究室大規模言語モデル講座2023修了
 2024 | 東京大学松尾研究室大規模言語モデル講座2024修了。コントリビューション部門特別賞受賞。
-2025 | 東京大学松尾研究室Deep Learning講座2025受講中
+2025 | 東京大学松尾研究室Deep Learning基礎講座2025(大学院修士課程科目相当)終了
 
 ## Skills
 
