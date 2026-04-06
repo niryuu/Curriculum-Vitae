@@ -169,7 +169,7 @@ https://researchmap.jp/niryuu
 - Position: エンジニア(正社員)
 - 自社の地理基盤「Geolonia Map」をWeb上で簡単に利用可能にするライブラリ群を作っています。
 
-### Nov. 2025 - Feb. 2028
+### Nov. 2025 - Feb. 2026
 - __AI開発企業__
 - Position: エンジニア(業務委託)
 - 医療用の合成データを生成し、医療特化LLMの開発(SFT)に従事しました。
