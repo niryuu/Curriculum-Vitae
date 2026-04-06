@@ -143,7 +143,7 @@ https://researchmap.jp/niryuu
 
 ### Mar. 2012 - May. 2025
 - __合同会社Georepublic Japan__
-- Position: Senior Developer -> R&D/GIS Specialist
+- Position: Senior Developer -> R&D/GIS Specialist(正社員)
 - 災害時の市民による地図を用いたオープンソースWeb情報共有システムUshahidiを、地域情報の共有に活用できるようカスタマイズしました。
 - モービルマッピングシステム(車載の機器で全方位動画、点群による3Dデータなどを取得できる、Google StreetViewよりも高度な技術)のWeb(OpenLayers, WebGL)による表示の開発に参加しました。道路などのインフラストラクチャーの整備などに使われます。
 - 構造物の点群や3DオブジェクトをスマートフォンでAR表示するシステムを構築しました。
@@ -152,7 +152,13 @@ https://researchmap.jp/niryuu
 
 ### May. 2025 - Current
 - __株式会社Geolonia__
-- Position: TBD
+- Position: エンジニア(正社員)
+- 自社の地理基盤「Geolonia Map」をWeb上で簡単に利用可能にするライブラリ群を作っています。
+
+### Nov. 2025 - Feb. 2028
+- __AI開発企業__
+- Position: エンジニア(業務委託)
+- 医療用の合成データを生成し、医療特化LLMの開発(SFT)に従事しました。
 
 ### Others
 - 非常勤講師に関してはResearch Experienceに記載。
