@@ -130,12 +130,12 @@ https://researchmap.jp/niryuu
 - 医療用の合成データを生成し、医療特化LLMの開発(SFT)に従事しました。
 
 ### May. 2025 - Current
-- __株式会社Geolonia__
+- __株式会社ジオロニア__
 - Position: エンジニア(正社員)
 - 自社の地理基盤「Geolonia Map」をWeb上で簡単に利用可能にするライブラリ群を作っています。
 
 ### Mar. 2012 - May. 2025
-- __合同会社Georepublic Japan__
+- __合同会社Georepublic Japan(2025年6月より株式会社ジオロニアに事業譲渡)__
 - Position: Senior Developer -> R&D/GIS Specialist(正社員)
 - 災害時の市民による地図を用いたオープンソースWeb情報共有システムUshahidiを、地域情報の共有に活用できるようカスタマイズしました。
 - モービルマッピングシステム(車載の機器で全方位動画、点群による3Dデータなどを取得できる、Google StreetViewよりも高度な技術)のWeb(OpenLayers, WebGL)による表示の開発に参加しました。道路などのインフラストラクチャーの整備などに使われます。
