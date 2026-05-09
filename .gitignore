@@ -1,3 +1,8 @@
 *.html
 *.log
+*.pdf
 Gemfile.lock
+
+# pandoc generated docx (except the template)
+*.docx
+!template.docx
